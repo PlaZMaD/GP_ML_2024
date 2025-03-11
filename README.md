@@ -1,2 +1,2 @@
-# GP_ML_2024
+# GP_ML_2025
 Seminar materials
